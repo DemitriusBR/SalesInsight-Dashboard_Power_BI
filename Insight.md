@@ -27,8 +27,8 @@ Aqui estão alguns dos principais insights que você pode extrair do dashboard:
    - **Métricas Principais**: Acompanhe o faturamento diário e observe como as vendas ocorrem ao longo dos dias.
    - **Variação no Desempenho**: Identifique uma possível queda brusca na quantidade de produtos vendidos, o que pode resultar em um faturamento menor.
 
-2. **Sites de Vendas**
-   - **Métricas Principais**: Os principais meios de vendas são internet, mobile e aplicativos. No entanto, o mobile representa uma faixa insignificativa em comparação com os outros meios.
+2. **Canais de Vendas**
+   - **Atuações dos canais**: Os principais meios de vendas são internet, mobile e aplicativos. No entanto, o mobile representa uma faixa insignificativa em comparação com os outros meios.
    - **Conclusão**: O investimento igual em todos os canais sugere que o mobile pode não ser a melhor escolha, pois o retorno financeiro é baixo.
 
 3. **Área de Atuação**
