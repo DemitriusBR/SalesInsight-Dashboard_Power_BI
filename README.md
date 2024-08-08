@@ -13,7 +13,7 @@ Este repositório contém um projeto de análise e previsão de resultados de um
   - **Base de compra**: Dados relacionados às compras realizadas.
   - **Base de cliente**: Dados sobre os clientes do e-commerce.
 
-- **Report**: Contém os arquivos Power BI (.pbix) com as visualizações e painéis gerenciais.
+- **Projeto**: Contém os arquivos Power BI (.pbix) com as visualizações e painéis gerenciais.
   - **Visão dos clientes**: Painel focado na análise de dados dos clientes.
   - **Visão das compras**: Painel focado na análise dos dados de compra.
 
