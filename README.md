@@ -7,7 +7,7 @@ Este repositório contém um projeto de análise e previsão de resultados de um
 ## Estrutura do Repositório
 
 - **Contexto**: Contém o motivo do projeto e qual o seu intuito
--    **Descrição**: Descreve como foi realizado o projeoto e seu objetivo 
+    - **Descrição**: Descreve como foi realizado o projeoto e seu objetivo 
     
 - **Base de dados**: Contém as bases de dados originais usadas no projeto.
   - **Base de compra**: Dados relacionados às compras realizadas.
